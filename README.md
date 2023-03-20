@@ -6,4 +6,4 @@
 ## Contents
 | Date          | Title                                              | Category |
 | ---           | ---                                                | ---      |
-| 2023. 3. 20   | [MSA와 BFF에 대한 개념 ](lib/2023/dev/msa_and_bff.md) | dev      |
+| 2023. 3. 20   | [MSA와 BFF에 대한 개념(Feat. Monolithic Architecture) ](lib/2023/dev/msa_and_bff.md) | dev      |
