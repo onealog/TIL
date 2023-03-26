@@ -6,6 +6,7 @@
 ## Contents
 | Date          | Title                                                                                                              | Category        |
 | ------------- | ------------------------------------------------------------------------------------------------------------------ | --------------- |
+| 2023. 3. 26   | [VS Code 안에서 사용하는 ChatGPT - AICodeHelper](/lib/2023/tool/aicodehelper.md)                                      | tool            |
 | 2023. 3. 24   | [얕은 복사(Shallow Copy)와 깊은 복사(Deep Copy)](/lib/2023/javascript/shallow_copy_vs_deep_copy.md)                    | javascript      |
 | 2023. 3. 23   | [`useEffect` vs `useLayoutEffect`](/lib/2023/dev/useEffect_vs_useLayoutEffect.md)                                  | dev             |
 | 2023. 3. 22   | [클릭 한번으로 해당 코드를 찾아주는 'LocatorJS'](/lib/2023/tool/locatorjs.md)                                             | tool            |
