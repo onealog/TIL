@@ -6,6 +6,7 @@
 ## Contents
 | Date          | Title                                                                                                              | Category   |
 | ------------- | ------------------------------------------------------------------------------------------------------------------ | ---------  |
+| 2023. 4. 6    | VS Code에서 코드 줄바꿈 하는 단축키 -> `[Option + Z]`                                                                    |  etc      |
 | 2023. 4. 5    | [`<picture>` 태그에 대한 설명](/lib/2023/html/picture.md)                                                             |  html      |
 | 2023. 4. 3    | [그리디 알고리즘(Greedy Algorithm) - 알고리즘 패턴 학습(JS)](/lib/2023/algorithm/greedy.md)                               | algorithm  |
 | 2023. 3. 30   | [투 포인터(다중 포인터) - 알고리즘 패턴 학습(JS)](/lib/2023/algorithm/two_pointer.md)                                      | algorithm  |
