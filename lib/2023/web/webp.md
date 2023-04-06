@@ -1,6 +1,6 @@
 # WebP - 이미지 포맷
 
-다음 프로젝트와 관련이 깊은 WebP를 기록용으로 작성하려고 한다.
+오늘은 WebP에 대해 작성을 해보려고 하는데, 회사의 다음 프로젝트에서 WebP를 활용하기 위해서이다.
 
 <br>
 
@@ -22,12 +22,14 @@
 
 ## WebP 지원 브라우저(23.4 기준)
 
+- Can I use - ([링크](https://caniuse.com/webp))
+
 ![WebP 지원 브라우저](/assets/2023/web/webp.png)
 
 <br>
 
 ## 웹사이트 이미지 포맷 사용 통계(23.4 기준)
 
-- 매일 업데이트가 되는 듯 하다.
+- 매일 업데이트가 되는 듯 하다. ([링크](https://w3techs.com/technologies/overview/image_format))
 
 ![웹사이트 이미지 포맷 사용 통계](/assets/2023/web/webp2.png)
