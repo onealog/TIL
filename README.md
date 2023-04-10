@@ -6,6 +6,7 @@
 ## Contents
 | Date          | Title                                                                                                              | Category   |
 | ------------- | ------------------------------------------------------------------------------------------------------------------ | ---------  |
+| 2023. 4. 11   | [encodeURI()와 encodeURIComponent()의 차이](/lib/2023/javascript/encode_uri_and_component.md)                        | javascript |
 | 2023. 4. 10   | [Flux로의 카툰 안내서](https://bestalign.github.io/translation/cartoon-guide-to-flux/)                                | external link |
 | 2023. 4. 9    | [23년 1분기 개인 회고](/lib/2023/reflection/23_1Q.md)                                                                 | reflection |
 | 2023. 4. 7    | [WebP - 이미지 포맷](/lib/2023/web/webp.md)                                                                           |  web      |
