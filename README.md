@@ -6,6 +6,7 @@
 ## Contents
 | Date          | Title                                                                                                              | Category   |
 | ------------- | ------------------------------------------------------------------------------------------------------------------ | ---------  |
+| 2023. 4. 13   | [입 닫는 습관에 관하여](/lib/2023/communication/1.md)                                                                  | communication |
 | 2023. 4. 12   | [`<img>` 태그의 `src` 속성으로 API 엔드 포인트를 사용하는 방법](/lib/2023/javascript/res_redirect.md)                       | javascript |
 | 2023. 4. 11   | [encodeURI()와 encodeURIComponent()의 차이](/lib/2023/javascript/encode_uri_and_component.md)                        | javascript |
 | 2023. 4. 10   | [Flux로의 카툰 안내서](https://bestalign.github.io/translation/cartoon-guide-to-flux/)                                | external link |
