@@ -64,3 +64,7 @@
   <img src="image.jpg" alt="Image">
 </picture>
 ```
+
+### 23.4.14 추가
+사실상 WebP 이전에 `<picture>` 태그도 [IE에서 지원하지 않는다](https://caniuse.com/picture). 그러면 IE 브라우저일 경우에 `<picture>` 태그는 아예 노출이 안되는가? 라는 의문이 들 수 있다.   
+그렇지 않다. `<picture>` 태그 안에 `<img>` 태그가 있다는 가정하에 말이다. IE에서 `<picture>` 태그를 만나면 해당 태그는 무시하고 내부에 `<source>` 태그 또한 무시한다. 그 다음 `<img>` 태그의 `src` 속성을 읽어 이미지를 노출한다. 즉 IE에도 `<picture>` 태그를 사용할 수 있다.
