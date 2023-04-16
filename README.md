@@ -6,6 +6,7 @@
 ## Contents
 | Date          | Title                                                                                                              | Category   |
 | ------------- | ------------------------------------------------------------------------------------------------------------------ | ---------  |
+| 2023. 4. 17   | [URL에 Dash(-)와 Underscore(_) 중 뭘 써야할까?](/lib/2023/web/url-dash-or-underscore.md)                               | web        |
 | 2023. 4. 16   | [Headless UI Component](/lib/2023/dev/headless_ui.md)                                                              | dev        |
 | 2023. 4. 14   | [프론트엔드에서 MVC보다 더 많이 쓰이는 패턴은?](https://youtu.be/Y5vOfv67h8A)                                              | external link |
 | 2023. 4. 13   | [입 닫는 습관에 관하여](/lib/2023/communication/1.md)                                                                  | communication |
