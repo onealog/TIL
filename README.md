@@ -6,6 +6,7 @@
 ## Contents
 | Date          | Title                                                                                                              | Category   |
 | ------------- | ------------------------------------------------------------------------------------------------------------------ | ---------  |
+| 2023. 4. 20   | [WebP 프로젝트 트러블 슈팅](/lib/2023/troubleshooting/0420.md)                                                                | troubleshooting |
 | 2023. 4. 19   | [Node.js 20 릴리즈!](https://nodejs.org/en/blog/announcements/v20-release-announce)                                 | external link |
 | 2023. 4. 18   | [Tree Shaking에 관하여](/lib/2023/javascript/tree-shaking.md)                                                        | javascript |
 | 2023. 4. 17   | [URL에 Dash(-)와 Underscore(_) 중 뭘 써야할까?](/lib/2023/web/url-dash-or-underscore.md)                               | web        |
