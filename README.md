@@ -6,6 +6,7 @@
 ## Contents
 | Date          | Title                                                                                                              | Category   |
 | ------------- | ------------------------------------------------------------------------------------------------------------------ | ---------  |
+| 2023. 4. 21   | [프로젝트 EASYME 개선 작업 체크리스트](/lib/2023/reflection/easyme.md)                                                   | reflection |
 | 2023. 4. 20   | [WebP 프로젝트 트러블 슈팅](/lib/2023/troubleshooting/0420.md)                                                         | troubleshooting |
 | 2023. 4. 19   | [Node.js 20 릴리즈!](https://nodejs.org/en/blog/announcements/v20-release-announce)                                 | external link |
 | 2023. 4. 18   | [Tree Shaking에 관하여](/lib/2023/javascript/tree-shaking.md)                                                        | javascript |
@@ -16,7 +17,7 @@
 | 2023. 4. 12   | [`<img>` 태그의 `src` 속성으로 API 엔드 포인트를 사용하는 방법](/lib/2023/javascript/res-redirect.md)                       | javascript |
 | 2023. 4. 11   | [encodeURI()와 encodeURIComponent()의 차이](/lib/2023/javascript/encode-uri-and-component.md)                        | javascript |
 | 2023. 4. 10   | [Flux로의 카툰 안내서](https://bestalign.github.io/translation/cartoon-guide-to-flux/)                                | external link |
-| 2023. 4. 9    | [23년 1분기 개인 회고](/lib/2023/reflection/1q.md)                                                                 | reflection |
+| 2023. 4. 9    | [23년 1분기 개인 회고](/lib/2023/reflection/1q.md)                                                                    | reflection |
 | 2023. 4. 7    | [WebP - 이미지 포맷](/lib/2023/web/webp.md)                                                                           |  web      |
 | 2023. 4. 6    | VS Code에서 코드 줄바꿈 하는 단축키 -> `[Option + Z]`                                                                    |  etc      |
 | 2023. 4. 5    | [`<picture>` 태그에 대한 설명](/lib/2023/html/picture.md)                                                              |  html      |
