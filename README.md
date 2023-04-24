@@ -6,6 +6,7 @@
 ## Contents
 | Date          | Title                                                                                                              | Category   |
 | ------------- | ------------------------------------------------------------------------------------------------------------------ | ---------  |
+| 2023. 4. 24   | [오픈소스 커뮤니티에 공헌하는 온갖 방법](https://youtu.be/LJgU65MSiT8)                                                     | external link |
 | 2023. 4. 21   | [프로젝트 EASYME 개선 작업 체크리스트](/lib/2023/reflection/easyme.md)                                                   | reflection |
 | 2023. 4. 20   | [WebP 프로젝트 트러블 슈팅](/lib/2023/troubleshooting/0420.md)                                                         | troubleshooting |
 | 2023. 4. 19   | [Node.js 20 릴리즈!](https://nodejs.org/en/blog/announcements/v20-release-announce)                                 | external link |
