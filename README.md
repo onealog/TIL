@@ -6,6 +6,7 @@
 ## Contents
 | Date          | Title                                                                                                              | Category   |
 | ------------- | ------------------------------------------------------------------------------------------------------------------ | ---------  |
+| 2023. 4. 26   | [정탐, 미탐, 오탐](/lib/2023/etc/tp-tn-fn-fp.md)                                                              | reflection |
 | 2023. 4. 25   | [초기 개발 세팅을 자동화하자](/lib/2023/reflection/0426.md)                                                              | reflection |
 | 2023. 4. 24   | [오픈소스 커뮤니티에 공헌하는 온갖 방법](https://youtu.be/LJgU65MSiT8)                                                     | external link |
 | 2023. 4. 21   | [프로젝트 EASYME 개선 작업 체크리스트](/lib/2023/reflection/easyme.md)                                                   | reflection |
