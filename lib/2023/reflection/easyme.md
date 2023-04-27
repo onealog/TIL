@@ -19,4 +19,5 @@
 - [ ] Release 만들기
 - [ ] 일부 코드에서 Production과 Development 환경 구분하기
 - [ ] 테스트코드 추가 작성하기
+- [ ] Github README에 Buy Me a Coffee 같은 거 달아보기
 - ... 생각나는대로 추가 예정
