@@ -6,6 +6,7 @@
 ## Contents
 | Date          | Title                                                                                                              | Category   |
 | ------------- | ------------------------------------------------------------------------------------------------------------------ | ---------  |
+| 2023. 4. 28   | [당신이 성장하지 못하는 이유](https://yozm.wishket.com/magazine/detail/1986/)                                            | external link |
 | 2023. 4. 27   | [브라우저 핑거프린팅(Browser Fingerprinting)](/lib/2023/web/browser-fingerprinting.md)                                 | web |
 | 2023. 4. 26   | [정탐, 미탐, 오탐](/lib/2023/etc/tp-tn-fn-fp.md)                                                                      | etc |
 | 2023. 4. 25   | [초기 개발 세팅을 자동화하자](/lib/2023/reflection/0426.md)                                                              | reflection |
