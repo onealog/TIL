@@ -25,7 +25,7 @@
 | 2023. 4. 16   | [Headless UI Component](/lib/2023/dev/headless-ui.md)                                               | dev            |
 | 2023. 4. 14   | [프론트엔드에서 MVC보다 더 많이 쓰이는 패턴은?](https://youtu.be/Y5vOfv67h8A)                               | external link  |
 | 2023. 4. 13   | [입 닫는 습관에 관하여](/lib/2023/communication/1.md)                                                   | communication  |
-| 2023. 4. 12   | [`<img>` 태그의 `src` 속성으로 API 엔드 포인트를 사용하는 방법](/lib/2023/javascript/res-redirect.m          | javascript    |
+| 2023. 4. 12   | [`<img>` 태그의 `src` 속성으로 API 엔드 포인트를 사용하는 방법](/lib/2023/javascript/res-redirect.md)        | javascript    |
 | 2023. 4. 11   | [encodeURI()와 encodeURIComponent()의 차이](/lib/2023/javascript/encode-uri-and-component.md)         | javascript    |
 | 2023. 4. 10   | [Flux로의 카툰 안내서](https://bestalign.github.io/translation/cartoon-guide-to-flux/)                  | external link |
 | 2023. 4. 9    | [23년 1분기 개인 회고](/lib/2023/reflection/1q.md)                                                      | reflection   |
