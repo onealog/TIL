@@ -10,10 +10,11 @@
 
 | Date          | Title                                                                                               | Category       |
 | ------------- | ----------------------------------------------------------------------------------------------------| -------------- |
+| 2023. 5. 2    | [헤드리스 브라우저란(Headless Browser)?](/lib/2023/web/headless-browser.md)                             | web            |
 | 2023. 5. 1    | [손목, 소모품입니다 (수술까지 한 개발자의 개발 장비 이야기)](https://world.hey.com/bach/post-cadaa79b)         | external link  |
 | 2023. 4. 29   | [오픈소스 기여, 가볍게 시작하기](/lib/2023/reflection/0429.md)                                            | reflection     |
 | 2023. 4. 28   | [당신이 성장하지 못하는 이유](https://yozm.wishket.com/magazine/detail/1986/)                             | external link  |
-| 2023. 4. 27   | [브라우저 핑거프린팅(Browser Fingerprinting)](/lib/2023/web/browser-fingerprinting.md)                  | web             |
+| 2023. 4. 27   | [브라우저 핑거프린팅(Browser Fingerprinting)](/lib/2023/web/browser-fingerprinting.md)                  | web            |
 | 2023. 4. 26   | [정탐, 미탐, 오탐](/lib/2023/etc/tp-tn-fn-fp.md)                                                       | etc            |
 | 2023. 4. 25   | [초기 개발 세팅을 자동화하자](/lib/2023/reflection/0426.md)                                               | reflection     |
 | 2023. 4. 24   | [오픈소스 커뮤니티에 공헌하는 온갖 방법](https://youtu.be/LJgU65MSiT8)                                      | external link  |
@@ -84,6 +85,7 @@
 <br>
 
 ## Web
+- [헤드리스 브라우저란(Headless Browser)?](/lib/2023/web/headless-browser.md)
 - [브라우저 핑거프린팅(Browser Fingerprinting)](/lib/2023/web/browser-fingerprinting.md)
 - [URL에 Dash(-)와 Underscore(_) 중 뭘 써야할까?](/lib/2023/web/url-dash-or-underscore.md)
 - [WebP - 이미지 포맷](/lib/2023/web/webp.md)
