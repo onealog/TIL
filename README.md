@@ -10,6 +10,7 @@
 
 | Date          | Title                                                                                               | Category       |
 | ------------- | ----------------------------------------------------------------------------------------------------| -------------- |
+| 2023. 5. 4    | [일 잘하는 사람들의 11가지 특징](/lib/2023/etc/competent-person.md)                                       | etc            |
 | 2023. 5. 3    | [헤드리스 브라우저란(Headless Browser)?](/lib/2023/web/headless-browser.md)                             | web            |
 | 2023. 5. 1    | [손목, 소모품입니다 (수술까지 한 개발자의 개발 장비 이야기)](https://world.hey.com/bach/post-cadaa79b)         | external link  |
 | 2023. 4. 29   | [오픈소스 기여, 가볍게 시작하기](/lib/2023/reflection/0429.md)                                            | reflection     |
@@ -130,5 +131,6 @@
 <br>
 
 ## Etc
+- [일 잘하는 사람들의 11가지 특징](/lib/2023/etc/competent-person.md)
 - [정탐, 미탐, 오탐](/lib/2023/etc/tp-tn-fn-fp.md)
 - VS Code에서 코드 줄바꿈 하는 단축키 -> `[Option + Z]`
