@@ -10,6 +10,7 @@
 
 | Date          | Title                                                                                               | Category       |
 | ------------- | ----------------------------------------------------------------------------------------------------| -------------- |
+| 2023. 5. 8    | [무언가를 시작하기 전에 너무 예열을 오래 한다](/lib/2023/reflection/0508.md)                                 | reflection     |
 | 2023. 5. 4    | [일 잘하는 사람들의 11가지 특징](/lib/2023/etc/competent-person.md)                                       | etc            |
 | 2023. 5. 3    | [헤드리스 브라우저란(Headless Browser)?](/lib/2023/web/headless-browser.md)                             | web            |
 | 2023. 5. 1    | [손목, 소모품입니다 (수술까지 한 개발자의 개발 장비 이야기)](https://world.hey.com/bach/post-cadaa79b)         | external link  |
@@ -64,6 +65,7 @@
 <br>
 
 ## Reflection
+- [무언가를 시작하기 전에 너무 예열을 오래 한다](/lib/2023/reflection/0508.md)
 - [오픈소스 기여, 가볍게 시작하기](/lib/2023/reflection/0429.md)
 - [초기 개발 세팅을 자동화하자](/lib/2023/reflection/0426.md)
 - [프로젝트 EASYME 개선 작업 체크리스트](/lib/2023/reflection/easyme.md)
