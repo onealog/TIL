@@ -10,7 +10,7 @@
 
 | Date          | Title                                                                                               | Category       |
 | ------------- | ----------------------------------------------------------------------------------------------------| -------------- |
-| 2023. 5. 2    | [헤드리스 브라우저란(Headless Browser)?](/lib/2023/web/headless-browser.md)                             | web            |
+| 2023. 5. 3    | [헤드리스 브라우저란(Headless Browser)?](/lib/2023/web/headless-browser.md)                             | web            |
 | 2023. 5. 1    | [손목, 소모품입니다 (수술까지 한 개발자의 개발 장비 이야기)](https://world.hey.com/bach/post-cadaa79b)         | external link  |
 | 2023. 4. 29   | [오픈소스 기여, 가볍게 시작하기](/lib/2023/reflection/0429.md)                                            | reflection     |
 | 2023. 4. 28   | [당신이 성장하지 못하는 이유](https://yozm.wishket.com/magazine/detail/1986/)                             | external link  |
