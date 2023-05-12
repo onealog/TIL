@@ -10,6 +10,7 @@
 
 | Date          | Title                                                                                               | Category       |
 | ------------- | ----------------------------------------------------------------------------------------------------| -------------- |
+| 2023. 5. 12   | [대표의 책임](https://www.thestartupbible.com/2023/05/i-am-the-ceo-and-i-own-my-mistakes.html)         | external link  |
 | 2023. 5. 11   | [커밋 메시지 작성할 때 본문 내용도 쓰자](/lib/2023/reflection/0511.md)                                      | reflection     |
 | 2023. 5. 9    | [모닝콜 알바](/lib/2023/reflection/0509.md)                                                            | reflection     |
 | 2023. 5. 8    | [무언가를 시작하기 전에 너무 예열을 오래 한다](/lib/2023/reflection/0508.md)                                 | reflection     |
@@ -126,6 +127,7 @@
 <br>
 
 ## External Link
+- [대표의 책임](https://www.thestartupbible.com/2023/05/i-am-the-ceo-and-i-own-my-mistakes.html)
 - [손목, 소모품입니다 (수술까지 한 개발자의 개발 장비 이야기)](https://world.hey.com/bach/post-cadaa79b)
 - [당신이 성장하지 못하는 이유](https://yozm.wishket.com/magazine/detail/1986/)
 - [오픈소스 커뮤니티에 공헌하는 온갖 방법](https://youtu.be/LJgU65MSiT8)
