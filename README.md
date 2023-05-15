@@ -10,6 +10,7 @@
 
 | Date          | Title                                                                                               | Category       |
 | ------------- | ----------------------------------------------------------------------------------------------------| -------------- |
+| 2023. 5. 15   | [raycast - 강력한 spotlight, alfred 대체앱](https://www.raycast.com)                                   | Tool           |
 | 2023. 5. 14   | [bestofjs - JS 기반 프로젝트 순위를 볼 수 있는 사이트](https://bestofjs.org/)                               | Tool           |
 | 2023. 5. 12   | [대표의 책임](https://www.thestartupbible.com/2023/05/i-am-the-ceo-and-i-own-my-mistakes.html)         | external link  |
 | 2023. 5. 11   | [커밋 메시지 작성할 때 본문 내용도 쓰자](/lib/2023/reflection/0511.md)                                      | reflection     |
@@ -122,6 +123,7 @@
 <br>
 
 ## Tool
+- [raycast - 강력한 spotlight, alfred 대체앱](https://www.raycast.com)
 - [bestofjs - JS 기반 프로젝트 순위를 볼 수 있는 사이트](https://bestofjs.org/)
 - [VS Code 안에서 사용하는 ChatGPT - AICodeHelper](/lib/2023/tool/aicodehelper.md)
 - [클릭 한번으로 해당 코드를 찾아주는 'LocatorJS'](/lib/2023/tool/locatorjs.md)
