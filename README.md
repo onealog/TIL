@@ -10,6 +10,7 @@
 
 | Date          | Title                                                                                               | Category       |
 | ------------- | ----------------------------------------------------------------------------------------------------| -------------- |
+| 2023. 5. 16   | [ChatGPT로 인해 Stack Overflow의 트래픽 14% 감소](https://www.similarweb.com/blog/insights/ai-news/stack-overflow-chatgpt/) | external link |
 | 2023. 5. 15   | [raycast - 강력한 spotlight, alfred 대체앱](https://www.raycast.com)                                   | Tool           |
 | 2023. 5. 14   | [bestofjs - JS 기반 프로젝트 순위를 볼 수 있는 사이트](https://bestofjs.org/)                               | Tool           |
 | 2023. 5. 12   | [대표의 책임](https://www.thestartupbible.com/2023/05/i-am-the-ceo-and-i-own-my-mistakes.html)         | external link  |
@@ -131,6 +132,7 @@
 <br>
 
 ## External Link
+- [ChatGPT로 인해 Stack Overflow의 트래픽 14% 감소](https://www.similarweb.com/blog/insights/ai-news/stack-overflow-chatgpt/)
 - [대표의 책임](https://www.thestartupbible.com/2023/05/i-am-the-ceo-and-i-own-my-mistakes.html)
 - [손목, 소모품입니다 (수술까지 한 개발자의 개발 장비 이야기)](https://world.hey.com/bach/post-cadaa79b)
 - [당신이 성장하지 못하는 이유](https://yozm.wishket.com/magazine/detail/1986/)
