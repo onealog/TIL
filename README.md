@@ -10,6 +10,7 @@
 
 | Date          | Title                                                                                               | Category       |
 | ------------- | ----------------------------------------------------------------------------------------------------| -------------- |
+| 2023. 5. 17   | [응답 헤더 가져오는 명령어 `curl -I`](/lib/2023/web/curl-i)                                              | web            |
 | 2023. 5. 16   | [ChatGPT로 인해 Stack Overflow의 트래픽 14% 감소](https://www.similarweb.com/blog/insights/ai-news/stack-overflow-chatgpt/) | external link |
 | 2023. 5. 15   | [raycast - 강력한 spotlight, alfred 대체앱](https://www.raycast.com)                                   | Tool           |
 | 2023. 5. 14   | [bestofjs - JS 기반 프로젝트 순위를 볼 수 있는 사이트](https://bestofjs.org/)                               | Tool           |
@@ -96,6 +97,7 @@
 <br>
 
 ## Web
+- [응답 헤더 가져오는 명령어 `curl -I`](/lib/2023/web/curl-i)
 - [헤드리스 브라우저란(Headless Browser)?](/lib/2023/web/headless-browser.md)
 - [브라우저 핑거프린팅(Browser Fingerprinting)](/lib/2023/web/browser-fingerprinting.md)
 - [URL에 Dash(-)와 Underscore(_) 중 뭘 써야할까?](/lib/2023/web/url-dash-or-underscore.md)
