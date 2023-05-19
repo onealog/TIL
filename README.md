@@ -10,7 +10,8 @@
 
 | Date          | Title                                                                                               | Category       |
 | ------------- | ----------------------------------------------------------------------------------------------------| -------------- |
-| 2023. 5. 18   | [집무실 한 달 후기](/lib/2023/reflection/0518.md)                                    | reflection     |
+| 2023. 5. 19   | [모닝콜 알바 1주일 후기](/lib/2023/reflection/0519.md)                                                  | reflection     |
+| 2023. 5. 18   | [집무실 한 달 후기](/lib/2023/reflection/0518.md)                                                      | reflection     |
 | 2023. 5. 17   | [응답 헤더 가져오는 명령어 `curl -I`](/lib/2023/web/curl-i)                                              | web            |
 | 2023. 5. 16   | [ChatGPT로 인해 Stack Overflow의 트래픽 14% 감소](https://www.similarweb.com/blog/insights/ai-news/stack-overflow-chatgpt/) | external link |
 | 2023. 5. 15   | [raycast - 강력한 spotlight, alfred 대체앱](https://www.raycast.com)                                   | Tool           |
@@ -73,6 +74,7 @@
 <br>
 
 ## Reflection
+- [모닝콜 알바 1주일 후기](/lib/2023/reflection/0519.md)
 - [집무실 한 달 후기](/lib/2023/reflection/0518.md)
 - [커밋 메시지 작성할 때 본문 내용도 쓰자](/lib/2023/reflection/0511.md)
 - [모닝콜 알바](/lib/2023/reflection/0509.md)
