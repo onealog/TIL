@@ -10,6 +10,7 @@
 
 | Date          | Title                                                                                               | Category       |
 | ------------- | ----------------------------------------------------------------------------------------------------| -------------- |
+| 2023. 5. 21   | [2023 자바스크립트 새로운 기능!](https://youtu.be/e6WV_DXGwSg)                                           | external link  |
 | 2023. 5. 19   | [모닝콜 알바 1주일 후기](/lib/2023/reflection/0519.md)                                                  | reflection     |
 | 2023. 5. 18   | [집무실 한 달 후기](/lib/2023/reflection/0518.md)                                                      | reflection     |
 | 2023. 5. 17   | [응답 헤더 가져오는 명령어 `curl -I`](/lib/2023/web/curl-i)                                              | web            |
@@ -138,6 +139,7 @@
 <br>
 
 ## External Link
+- [2023 자바스크립트 새로운 기능!](https://youtu.be/e6WV_DXGwSg)
 - [ChatGPT로 인해 Stack Overflow의 트래픽 14% 감소](https://www.similarweb.com/blog/insights/ai-news/stack-overflow-chatgpt/)
 - [대표의 책임](https://www.thestartupbible.com/2023/05/i-am-the-ceo-and-i-own-my-mistakes.html)
 - [손목, 소모품입니다 (수술까지 한 개발자의 개발 장비 이야기)](https://world.hey.com/bach/post-cadaa79b)
