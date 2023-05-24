@@ -10,6 +10,7 @@
 
 | Date          | Title                                                                                               | Category       |
 | ------------- | ----------------------------------------------------------------------------------------------------| -------------- |
+| 2023. 5. 24   | [정규표현식 Lookbehind](/lib/2023/web/lookbehind.md)                                                  | web            |
 | 2023. 5. 21   | [2023 자바스크립트 새로운 기능!](https://youtu.be/e6WV_DXGwSg)                                           | external link  |
 | 2023. 5. 19   | [모닝콜 알바 1주일 후기](/lib/2023/reflection/0519.md)                                                  | reflection     |
 | 2023. 5. 18   | [집무실 한 달 후기](/lib/2023/reflection/0518.md)                                                      | reflection     |
@@ -102,6 +103,7 @@
 <br>
 
 ## Web
+- [정규표현식 Lookbehind](/lib/2023/web/lookbehind.md)
 - [응답 헤더 가져오는 명령어 `curl -I`](/lib/2023/web/curl-i)
 - [헤드리스 브라우저란(Headless Browser)?](/lib/2023/web/headless-browser.md)
 - [브라우저 핑거프린팅(Browser Fingerprinting)](/lib/2023/web/browser-fingerprinting.md)
