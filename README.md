@@ -10,6 +10,7 @@
 
 | Date          | Title                                                                                               | Category       |
 | ------------- | ----------------------------------------------------------------------------------------------------| -------------- |
+| 2023. 5. 29   | [집무실을 다시 시작했다](/lib/2023/reflection/0529.md)                                                   | reflection     |
 | 2023. 5. 25   | [코드리뷰 단에서 잡을 수 있지 않았나?](/lib/2023/reflection/0525.md)                                       | reflection     |
 | 2023. 5. 24   | [정규표현식 Lookbehind](/lib/2023/web/lookbehind.md)                                                  | web            |
 | 2023. 5. 21   | [2023 자바스크립트 새로운 기능!](https://youtu.be/e6WV_DXGwSg)                                           | external link  |
@@ -77,6 +78,7 @@
 <br>
 
 ## Reflection
+- [집무실을 다시 시작했다](/lib/2023/reflection/0529.md)
 - [코드리뷰 단에서 잡을 수 있지 않았나?](/lib/2023/reflection/0525.md)
 - [모닝콜 알바 1주일 후기](/lib/2023/reflection/0519.md)
 - [집무실 한 달 후기](/lib/2023/reflection/0518.md)
