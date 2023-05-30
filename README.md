@@ -10,6 +10,7 @@
 
 | Date          | Title                                                                                               | Category       |
 | ------------- | ----------------------------------------------------------------------------------------------------| -------------- |
+| 2023. 5. 30   | [글쓰기가 어려운 당신에게(7년째 쓰는 개발자로부터)](https://yozm.wishket.com/magazine/detail/2053/)           | external link  |
 | 2023. 5. 29   | [집무실을 다시 시작했다](/lib/2023/reflection/0529.md)                                                   | reflection     |
 | 2023. 5. 25   | [코드리뷰 단에서 잡을 수 있지 않았나?](/lib/2023/reflection/0525.md)                                       | reflection     |
 | 2023. 5. 24   | [정규표현식 Lookbehind](/lib/2023/web/lookbehind.md)                                                  | web            |
@@ -145,6 +146,7 @@
 <br>
 
 ## External Link
+- [글쓰기가 어려운 당신에게(7년째 쓰는 개발자로부터)](https://yozm.wishket.com/magazine/detail/2053/)
 - [2023 자바스크립트 새로운 기능!](https://youtu.be/e6WV_DXGwSg)
 - [ChatGPT로 인해 Stack Overflow의 트래픽 14% 감소](https://www.similarweb.com/blog/insights/ai-news/stack-overflow-chatgpt/)
 - [대표의 책임](https://www.thestartupbible.com/2023/05/i-am-the-ceo-and-i-own-my-mistakes.html)
