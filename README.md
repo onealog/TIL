@@ -10,6 +10,7 @@
 
 | Date          | Title                                                                                               | Category       |
 | ------------- | ----------------------------------------------------------------------------------------------------| -------------- |
+| 2023. 6. 1    | [피크엔드 법칙(Peak-End Rule)이란?](/lib/2023/etc/peak-end-rule.md)                                     | etc            |
 | 2023. 5. 30   | [글쓰기가 어려운 당신에게(7년째 쓰는 개발자로부터)](https://yozm.wishket.com/magazine/detail/2053/)           | external link  |
 | 2023. 5. 29   | [집무실을 다시 시작했다](/lib/2023/reflection/0529.md)                                                   | reflection     |
 | 2023. 5. 25   | [코드리뷰 단에서 잡을 수 있지 않았나?](/lib/2023/reflection/0525.md)                                       | reflection     |
@@ -161,6 +162,7 @@
 <br>
 
 ## Etc
+- [피크엔드 법칙(Peak-End Rule)이란?](/lib/2023/etc/peak-end-rule.md)
 - [일 잘하는 사람들의 11가지 특징](/lib/2023/etc/competent-person.md)
 - [정탐, 미탐, 오탐](/lib/2023/etc/tp-tn-fn-fp.md)
 - VS Code에서 코드 줄바꿈 하는 단축키 -> `[Option + Z]`
