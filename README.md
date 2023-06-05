@@ -10,6 +10,7 @@
 
 | Date          | Title                                                                                               | Category       |
 | ------------- | ----------------------------------------------------------------------------------------------------| -------------- |
+| 2023. 6. 5    | [겹치는 날짜 체크하기](/lib/2023/troubleshooting/0605.md)                                               | troubleshooting |
 | 2023. 6. 2    | [Low Hanging Fruit란?](/lib/2023/etc/low-hanging-fruit.md)                                           | etc            |
 | 2023. 6. 1    | [피크엔드 법칙(Peak-End Rule)이란?](/lib/2023/etc/peak-end-rule.md)                                     | etc            |
 | 2023. 5. 30   | [글쓰기가 어려운 당신에게(7년째 쓰는 개발자로부터)](https://yozm.wishket.com/magazine/detail/2053/)           | external link  |
@@ -97,6 +98,7 @@
 <br>
 
 ## Troubleshooting
+- [겹치는 날짜 체크하기](/lib/2023/troubleshooting/0605.md)
 - [WebP 프로젝트 트러블 슈팅](/lib/2023/troubleshooting/0420.md)
 
 <br>
