@@ -10,6 +10,7 @@
 
 | Date          | Title                                                                                               | Category       |
 | ------------- | ----------------------------------------------------------------------------------------------------| -------------- |
+| 2023. 6. 7    | [props를 useState에 전달하기](/lib/2023/dev/putting-props-to-useState.md)                            | dev            |
 | 2023. 6. 5    | [겹치는 날짜 체크하기](/lib/2023/troubleshooting/0605.md)                                               | troubleshooting |
 | 2023. 6. 2    | [Low Hanging Fruit란?](/lib/2023/etc/low-hanging-fruit.md)                                           | etc            |
 | 2023. 6. 1    | [피크엔드 법칙(Peak-End Rule)이란?](/lib/2023/etc/peak-end-rule.md)                                     | etc            |
@@ -104,6 +105,7 @@
 <br>
 
 ## Dev
+- [props를 useState에 전달하기](/lib/2023/dev/putting-props-to-useState.md)
 - [Headless UI Component](/lib/2023/dev/headless-ui.md)
 - [모노레포(Monorepo)와 멀티레포(Multi-repo)](/lib/2023/dev/monorepo-and-multi-repo.md)
 - [`useEffect` vs `useLayoutEffect`](/lib/2023/dev/useEffect-vs-useLayoutEffect.md)
