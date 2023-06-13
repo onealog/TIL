@@ -10,7 +10,8 @@
 
 | Date          | Title                                                                                               | Category       |
 | ------------- | ----------------------------------------------------------------------------------------------------| -------------- |
-| 2023. 6. 12   | [주니어 개발자들이 읽으면 좋은 테크 아티클 모음)](https://www.f-lab.kr/blog/developer-tech-article-zip)      | external link  |
+| 2023. 6. 13   | [yarn 대신 pnpm으로 넘어간 3가지 이유](https://hiddenest.dev/yarn-pnpm-3)                                | external link  |
+| 2023. 6. 12   | [주니어 개발자들이 읽으면 좋은 테크 아티클 모음](https://www.f-lab.kr/blog/developer-tech-article-zip)       | external link  |
 | 2023. 6. 7    | [props를 useState에 전달하기](/lib/2023/dev/putting-props-to-useState.md)                              | dev            |
 | 2023. 6. 5    | [겹치는 날짜 체크하기](/lib/2023/troubleshooting/0605.md)                                               | troubleshooting |
 | 2023. 6. 2    | [Low Hanging Fruit란?](/lib/2023/etc/low-hanging-fruit.md)                                           | etc            |
@@ -153,7 +154,7 @@
 <br>
 
 ## External Link
-- [주니어 개발자들이 읽으면 좋은 테크 아티클 모음)](https://www.f-lab.kr/blog/developer-tech-article-zip)
+- [주니어 개발자들이 읽으면 좋은 테크 아티클 모음](https://www.f-lab.kr/blog/developer-tech-article-zip)
 - [글쓰기가 어려운 당신에게(7년째 쓰는 개발자로부터)](https://yozm.wishket.com/magazine/detail/2053/)
 - [2023 자바스크립트 새로운 기능!](https://youtu.be/e6WV_DXGwSg)
 - [ChatGPT로 인해 Stack Overflow의 트래픽 14% 감소](https://www.similarweb.com/blog/insights/ai-news/stack-overflow-chatgpt/)
