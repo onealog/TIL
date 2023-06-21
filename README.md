@@ -10,6 +10,7 @@
 
 | Date          | Title                                                                                               | Category       |
 | ------------- | ----------------------------------------------------------------------------------------------------| -------------- |
+| 2023. 6. 21   | [node-canvas - node.js에서 canvas로 이미지 만드는 라이브러리](https://github.com/Automattic/node-canvas)   | tool           |
 | 2023. 6. 16   | [radix - 오픈소스 컴포넌트 라이브러리](https://www.radix-ui.com/)                                         | tool           |
 | 2023. 6. 13   | [yarn 대신 pnpm으로 넘어간 3가지 이유](https://hiddenest.dev/yarn-pnpm-3)                                | external link  |
 | 2023. 6. 12   | [주니어 개발자들이 읽으면 좋은 테크 아티클 모음](https://www.f-lab.kr/blog/developer-tech-article-zip)       | external link  |
@@ -147,6 +148,7 @@
 <br>
 
 ## Tool
+- [node-canvas - node.js에서 canvas로 이미지 만드는 라이브러리](https://github.com/Automattic/node-canvas)
 - [radix - 오픈소스 컴포넌트 라이브러리](https://www.radix-ui.com/)
 - [raycast - 강력한 spotlight, alfred 대체앱](https://www.raycast.com)
 - [bestofjs - JS 기반 프로젝트 순위를 볼 수 있는 사이트](https://bestofjs.org/)
