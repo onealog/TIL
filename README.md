@@ -10,6 +10,7 @@
 
 | Date          | Title                                                                                               | Category       |
 | ------------- | ----------------------------------------------------------------------------------------------------| -------------- |
+| 2023. 6. 29   | [토스 2022년 코딩테스트 기출 문제 공개](https://toss.im/career/article/next-developer-2023-sample-questions) | external link |
 | 2023. 6. 21   | [node-canvas - node.js에서 canvas로 이미지 만드는 라이브러리](https://github.com/Automattic/node-canvas)   | tool           |
 | 2023. 6. 16   | [radix - 오픈소스 컴포넌트 라이브러리](https://www.radix-ui.com/)                                         | tool           |
 | 2023. 6. 13   | [yarn 대신 pnpm으로 넘어간 3가지 이유](https://hiddenest.dev/yarn-pnpm-3)                                | external link  |
@@ -158,6 +159,7 @@
 <br>
 
 ## External Link
+- [토스 2022년 코딩테스트 기출 문제 공개](https://toss.im/career/article/next-developer-2023-sample-questions)
 - [주니어 개발자들이 읽으면 좋은 테크 아티클 모음](https://www.f-lab.kr/blog/developer-tech-article-zip)
 - [글쓰기가 어려운 당신에게(7년째 쓰는 개발자로부터)](https://yozm.wishket.com/magazine/detail/2053/)
 - [2023 자바스크립트 새로운 기능!](https://youtu.be/e6WV_DXGwSg)
