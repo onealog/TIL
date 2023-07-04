@@ -10,7 +10,8 @@
 
 | Date          | Title                                                                                               | Category       |
 | ------------- | ----------------------------------------------------------------------------------------------------| -------------- |
-| 2023. 6. 30   | [Background Removal - 브라우저 배경 제거 오픈소스](/lib/2023/tool/background-removal.md)        | tool |
+| 2023. 7. 4    | [Script Kit - 자동화 단축키 도구](/lib/2023/tool/script-kit.md)                                         | tool           |
+| 2023. 6. 30   | [Background Removal - 브라우저 배경 제거 오픈소스](/lib/2023/tool/background-removal.md)                  | tool           |
 | 2023. 6. 29   | [토스 2022년 코딩테스트 기출 문제 공개](https://toss.im/career/article/next-developer-2023-sample-questions) | external link |
 | 2023. 6. 21   | [node-canvas - node.js에서 canvas로 이미지 만드는 라이브러리](https://github.com/Automattic/node-canvas)   | tool           |
 | 2023. 6. 16   | [radix - 오픈소스 컴포넌트 라이브러리](https://www.radix-ui.com/)                                         | tool           |
@@ -150,6 +151,7 @@
 <br>
 
 ## Tool
+- [Script Kit - 자동화 단축키 도구](/lib/2023/tool/script-kit.md)
 - [Background Removal - 브라우저 배경 제거 오픈소스](/lib/2023/tool/background-removal.md)
 - [node-canvas - node.js에서 canvas로 이미지 만드는 라이브러리](https://github.com/Automattic/node-canvas)
 - [radix - 오픈소스 컴포넌트 라이브러리](https://www.radix-ui.com/)
