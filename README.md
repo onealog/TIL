@@ -10,6 +10,7 @@
 
 | Date          | Title                                                                                               | Category       |
 | ------------- | ----------------------------------------------------------------------------------------------------| -------------- |
+| 2023. 7. 12   | [언젠가 쓸데 있는 서비스](/lib/2023/etc/etc-service.md)                                                  | etc            |
 | 2023. 7. 4    | [Script Kit - 자동화 단축키 도구](/lib/2023/tool/script-kit.md)                                         | tool           |
 | 2023. 6. 30   | [Background Removal - 브라우저 배경 제거 오픈소스](/lib/2023/tool/background-removal.md)                  | tool           |
 | 2023. 6. 29   | [토스 2022년 코딩테스트 기출 문제 공개](https://toss.im/career/article/next-developer-2023-sample-questions) | external link |
@@ -180,6 +181,7 @@
 <br>
 
 ## Etc
+- [언젠간 쓸데 있는 서비스](/lib/2023/etc/etc-service.md)
 - [Low Hanging Fruit란?](/lib/2023/etc/low-hanging-fruit.md)
 - [피크엔드 법칙(Peak-End Rule)이란?](/lib/2023/etc/peak-end-rule.md)
 - [일 잘하는 사람들의 11가지 특징](/lib/2023/etc/competent-person.md)
