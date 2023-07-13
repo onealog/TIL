@@ -10,6 +10,7 @@
 
 | Date          | Title                                                                                               | Category       |
 | ------------- | ----------------------------------------------------------------------------------------------------| -------------- |
+| 2023. 7. 13   | [GN⁺: GPT-Prompt-Engineer - GPT 프롬프트 엔지니어](https://news.hada.io/topic?id=9768)                  | web            |
 | 2023. 7. 12   | [언젠가 쓸데 있는 서비스](/lib/2023/etc/etc-service.md)                                                  | etc            |
 | 2023. 7. 4    | [Script Kit - 자동화 단축키 도구](/lib/2023/tool/script-kit.md)                                         | tool           |
 | 2023. 6. 30   | [Background Removal - 브라우저 배경 제거 오픈소스](/lib/2023/tool/background-removal.md)                  | tool           |
@@ -122,6 +123,7 @@
 <br>
 
 ## Web
+- [GN⁺: GPT-Prompt-Engineer - GPT 프롬프트 엔지니어](https://news.hada.io/topic?id=9768)
 - [정규표현식 Lookbehind](/lib/2023/web/lookbehind.md)
 - [응답 헤더 가져오는 명령어 `curl -I`](/lib/2023/web/curl-i)
 - [헤드리스 브라우저란(Headless Browser)?](/lib/2023/web/headless-browser.md)
