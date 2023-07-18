@@ -10,6 +10,7 @@
 
 | Date          | Title                                                                                               | Category       |
 | ------------- | ----------------------------------------------------------------------------------------------------| -------------- |
+| 2023. 7. 18   | [git stash 몇 가지 팁](/lib/2023/dev/git-stash.md)                                                    | dev            |
 | 2023. 7. 13   | [GN⁺: GPT-Prompt-Engineer - GPT 프롬프트 엔지니어](https://news.hada.io/topic?id=9768)                  | web            |
 | 2023. 7. 12   | [언젠가 쓸데 있는 서비스](/lib/2023/etc/etc-service.md)                                                  | etc            |
 | 2023. 7. 4    | [Script Kit - 자동화 단축키 도구](/lib/2023/tool/script-kit.md)                                         | tool           |
@@ -114,6 +115,7 @@
 <br>
 
 ## Dev
+- [git stash 몇 가지 팁](/lib/2023/dev/git-stash.md)
 - [props를 useState에 전달하기](/lib/2023/dev/putting-props-to-useState.md)
 - [Headless UI Component](/lib/2023/dev/headless-ui.md)
 - [모노레포(Monorepo)와 멀티레포(Multi-repo)](/lib/2023/dev/monorepo-and-multi-repo.md)
