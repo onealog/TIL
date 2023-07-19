@@ -10,6 +10,7 @@
 
 | Date          | Title                                                                                               | Category       |
 | ------------- | ----------------------------------------------------------------------------------------------------| -------------- |
+| 2023. 7. 19   | [node-canvas로 카카오 비즈보드 만들기](/lib/2023/javascript/node-canvas-kakao.md)                        | javascript     |
 | 2023. 7. 18   | [git stash 몇 가지 팁](/lib/2023/dev/git-stash.md)                                                    | dev            |
 | 2023. 7. 13   | [GN⁺: GPT-Prompt-Engineer - GPT 프롬프트 엔지니어](https://news.hada.io/topic?id=9768)                  | web            |
 | 2023. 7. 12   | [언젠가 쓸데 있는 서비스](/lib/2023/etc/etc-service.md)                                                  | etc            |
@@ -136,6 +137,7 @@
 <br>
 
 ## JavaScript
+- [node-canvas로 카카오 비즈보드 만들기](/lib/2023/javascript/node-canvas-kakao.md)
 - [Tree Shaking에 관하여](/lib/2023/javascript/tree-shaking.md)
 - [`<img>` 태그의 `src` 속성으로 API 엔드 포인트를 사용하는 방법](/lib/2023/javascript/res-redirect.md)
 - [encodeURI()와 encodeURIComponent()의 차이](/lib/2023/javascript/encode-uri-and-component.md)
