@@ -10,6 +10,7 @@
 
 | Date          | Title                                                                                               | Category       |
 | ------------- | ----------------------------------------------------------------------------------------------------| -------------- |
+| 2023. 7. 21   | [리액트 조건부 렌더링](/lib/2023/dev/conditional-rendering.md)                                          | dev            |
 | 2023. 7. 20   | [node 명령어로 특정 js 파일을 실행할 때 path 설정](/lib/2023/javascript/node-require.md)                   | javascript     |
 | 2023. 7. 19   | [node-canvas로 카카오 비즈보드 만들기](/lib/2023/javascript/node-canvas-kakao.md)                        | javascript     |
 | 2023. 7. 18   | [git stash 몇 가지 팁](/lib/2023/dev/git-stash.md)                                                    | dev            |
@@ -117,6 +118,7 @@
 <br>
 
 ## Dev
+- [리액트 조건부 렌더링](/lib/2023/dev/conditional-rendering.md)
 - [git stash 몇 가지 팁](/lib/2023/dev/git-stash.md)
 - [props를 useState에 전달하기](/lib/2023/dev/putting-props-to-useState.md)
 - [Headless UI Component](/lib/2023/dev/headless-ui.md)
