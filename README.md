@@ -4,7 +4,6 @@
 <br>
 
 ## Contents
-- [🐝 Today I Learned](#-today-i-learned)
   - [Contents](#contents)
   - [Reflection](#reflection)
   - [Troubleshooting](#troubleshooting)
